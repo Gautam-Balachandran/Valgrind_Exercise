@@ -1,6 +1,6 @@
 # C++ Boilerplate
-[![Build Status](https://travis-ci.org/Gautam-Balachandran/Valgrind_Exercise.svg?branch=master)](https://travis-ci.org/gautam-balachandran/Valgrind_Exercise)
-[![Coverage Status](https://coveralls.io/repos/github/Gautam-Balachandran/Valgrind_Exercise/badge.svg?branch=valgrind_exercise)](https://coveralls.io/github/Gautam-Balachandran/Valgrind_Exercise?branch=master)
+[![Build Status](https://travis-ci.org/Gautam-Balachandran/Valgrind_Exercise.svg?branch=valgrind_exercise)](https://travis-ci.org/gautam-balachandran/Valgrind_Exercise)
+[![Coverage Status](https://coveralls.io/repos/github/Gautam-Balachandran/Valgrind_Exercise/badge.svg?branch=valgrind_exercise)](https://coveralls.io/github/Gautam-Balachandran/Valgrind_Exercise?branch=valgrind_exercise)
 ---
 
 ## Overview
